@@ -6,7 +6,9 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=3e6f8a&width=500&height=70&duration=4000&lines=Hii+there+👋;+I'm+Saikat+Patra;+Welcome+to+my+Github">
 </h1>
 
-**Budding Fullstack Developer | AI/ML Enthusiast | UI/UX Designer**
+<h3>
+  <p align="center">Budding Full Stack Developer | AI/ML Enthusiast | UI/UX Designer</p>
+</h3>
 
 ## 🚀 About Me
 
