@@ -10,13 +10,17 @@
   <p align="center">Budding Full Stack Developer | AI/ML Enthusiast | UI/UX Designer</p>
 </h3>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saikat257-ui&color=blue" alt="Profile Visitors" />
+</div>
+
 ## 🚀 About Me
 
 🎓 Final-year Computer Science student at Brainware University (CGPA: 9.32)  
 👨‍💻 Passionate about Full Stack Development, AI/ML, and UI/UX Design  
 🤝 Love exploring and collaborating in hackathons, contests, and open-source projects  
 🎯 Fun fact: I'm also a Jack of all trades and passionate about art 🎨
-🎗️ Currently working as a Software Engineer Intern at [SpacenosHQ](https://www.spacenos.com/)
+🎗️ Currently working as a Software Engineer Intern at [Spacenos](https://www.spacenos.com/)
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saikat257-ui&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🔥 Streaks and Trophies
+## 📈 Streaks and Trophies
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat257-ui&theme=dark&hide_border=true" alt="GitHub Streak" />
