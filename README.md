@@ -10,9 +10,9 @@
   <p align="center">Budding Full Stack Developer | AI/ML Enthusiast | UI/UX Designer</p>
 </h3>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Saikat257-ui&color=blue" alt="Profile Visitors" />
-</div>
+</div> -->
 
 ## 🚀 About Me
 
