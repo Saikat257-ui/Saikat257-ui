@@ -64,11 +64,11 @@
 ## 📈 Streaks and Trophies
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saikat257-ui&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-streak-stats.vercel.app/?user=Saikat257-ui&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saikat257-ui&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saikat257-ui&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ## 🏆 Highlights & Achievements
