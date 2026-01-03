@@ -20,7 +20,7 @@
 👨‍💻 Passionate about Full Stack Development, AI/ML, and UI/UX Design  
 🤝 Love exploring and collaborating in hackathons, contests, and open-source projects  
 🎯 Fun fact: I'm also a Jack of all trades and passionate about art-🎨
-🎗️ Currently working as a Full Stack Intern at [Spacenos](https://www.spacenos.com/)
+🎗️ Currently working as a Full Stack developer Intern at [Spacenos](https://www.spacenos.com/)
 
 ## 🛠️ Tech Stack
 
