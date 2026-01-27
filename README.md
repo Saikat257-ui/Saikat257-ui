@@ -67,7 +67,9 @@
   <img src="https://readme-streak-stats.vercel.app/?user=Saikat257-ui&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
 
-![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saikat257-ui&theme=dark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saikat257-ui&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+</div>
 
 ## 🏆 Highlights & Achievements
 
