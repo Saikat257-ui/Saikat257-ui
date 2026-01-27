@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-🎓 Final-year Computer Science student at Brainware University (CGPA: 9.32)  
-👨‍💻 Passionate about Full Stack Development, AI/ML, and UI/UX Design  
-🤝 Love exploring and collaborating in hackathons, contests, and open-source projects  
-🎯 Fun fact: I'm also a Jack of all trades and passionate about art-🎨
-🎗️ Ex-Full Stack developer at [Spacenos](https://www.spacenos.com/)
+- 🎓 Final-year Computer Science student at Brainware University (CGPA: 9.32)
+- 👨‍💻 Passionate about Full Stack Development, AI/ML, and UI/UX Design
+- 🤝 Love exploring and collaborating in hackathons, contests, and open-source projects
+- 🎯 Fun fact: I'm also a Jack of all trades and passionate about art-🎨
+- 🎗️ Ex-Full Stack developer at [Spacenos](https://www.spacenos.com/)
 
 ## 🛠️ Tech Stack
 
