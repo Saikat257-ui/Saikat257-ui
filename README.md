@@ -20,7 +20,7 @@
 👨‍💻 Passionate about Full Stack Development, AI/ML, and UI/UX Design  
 🤝 Love exploring and collaborating in hackathons, contests, and open-source projects  
 🎯 Fun fact: I'm also a Jack of all trades and passionate about art-🎨
-🎗️ Currently working as a Full Stack developer Intern at [Spacenos](https://www.spacenos.com/)
+🎗️ Ex-Full Stack developer at [Spacenos](https://www.spacenos.com/)
 
 ## 🛠️ Tech Stack
 
@@ -80,17 +80,19 @@
 
 ## 📁 Featured Projects
 
-• 💹 **Mutual Fund Tracker (MERN Stack)** – Full-stack web app with React + Tailwind (frontend) and Node.js + Express + MongoDB (backend). Supports JWT authentication, mutual fund search via MFAPI, personalized favorites list, and secure REST APIs.
+•  **Creative-Showcase(React, JavaScript, CSS)** -	Built a React application featuring client-side authentication, protected routing, and persistent state management via localStorage. It includes a responsive pure-CSS masonry gallery that supports per-user uploads and public profiles. 
 
-• 🔑 **Gemini Backend Clone (Node.js, PostgreSQL, Stripe, Redis)** – Gemini-style backend system with OTP-based login, AI-powered chatrooms (Gemini API), Stripe subscription handling, and scalable architecture with Redis for async tasks.
+•  **Gemini-Backend-clone** - Built with Node.js, PostgreSQL, Stripe, Redis, and GenAI to showcase scalable backend architecture and clean code. This system features user chatrooms, OTP login, and AI-driven chats via the Gemini API along with Stripe subscription integrations.
 
-• 📄 **CVScanPro** – NLP-powered system that matches resumes with job descriptions to help recruiters identify the best candidates.
+•  **CVScanPro** - This system uses NLP and LlamaIndex to perform qualitative assessments by matching resumes to job descriptions. This system assists recruiters in identifying the most suitable candidates through automated document analysis. 
 
-• 📘 **PdfIntelligence (Flask, NLP)** – Upload PDFs and query document content using an NLP-powered backend for intelligent Q&A.
+•  **PdfCopilot** -	A full-stack project built with NLP, GenAI, and Flask that allows users to upload PDF documents and receive data-driven insights. The backend facilitates interactive Q&A sessions based on the uploaded document content. 
 
-• 🐞 **Bug Detection & Fixing (ML-based)** – Machine learning model that detects bugs in code, classifies them, and suggests potential fixes.
+•  **Bug-Detection-Fixing (ML-based project)** - Built and validated an ML-based bug detection system; evaluated model performance using precision/recall metrics and performed qualitative analysis on misclassifications to improve prediction accuracy. 
 
-• 📊 **TrackInInvestedStock (React + Spring Boot)** – Personalized stock portfolio tracker with CRUD operations, real-time portfolio valuation, and dashboard-based key metrics visualization.
+•  **Smart-Interview-App(React + TypeScript + GenAI)** - Built a modern React and TypeScript application providing an AI-powered interview experience with real-time candidate evaluation. It includes a comprehensive dashboard for managing technical assessment workflows and performance metrics. 
+
+•  **Smart File Organizer — (AI-Powered File Organization App)** - Built a full-stack web application with Next.js that uses AI to automatically organize Google Drive files through intelligent renaming and folder structuring. Features Google OAuth authentication, real-time progress tracking with Socket.IO, Gemini AI integration, document processing (PDF/DOCX), interactive file tree visualization, and modern glassmorphism UI with animations. Users preview AI suggestions before applying changes via Google Drive API.
 
 🔗 [Check out my repositories](https://github.com/Saikat257-ui?tab=repositories)
 
