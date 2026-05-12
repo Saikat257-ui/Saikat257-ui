@@ -21,6 +21,7 @@
 - 🤝 Love exploring and collaborating in hackathons, contests, and open-source projects
 - 🎯 Fun fact: I'm also a Jack of all trades and passionate about art-🎨
 - 🎗️ Ex-Full Stack Developer Intern at [Spacenos](https://www.spacenos.com/)
+- 🏢 Graduate Engineer Trainee at [Corelynx Solutions Pvt Ltd(CSPL)](https://www.corelynx.com/)
 
 ## 🛠️ Tech Stack
 
